@@ -1,2 +1,7 @@
 env
 .DS_Store
+vocab.json
+src.model
+src.vocab
+tgt.model
+tgt.vocab
